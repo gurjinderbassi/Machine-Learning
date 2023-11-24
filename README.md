@@ -1,3 +1,3 @@
 # Machine-Learning
 
-Implementing classical ML models for strong foundation.
+Self-studying and implementing classical ML algorithms.
